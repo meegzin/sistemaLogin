@@ -1,3 +1,7 @@
+# Esse projeto foi publicado no Vercel
+https://sistema-login-ax37r83oj-meegzin.vercel.app
+Para criar um usuário, coloque-o no LocalStorage no seguinte formato: [{"username":"seuuser"},{"password","suasenha"}]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
